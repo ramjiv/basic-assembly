@@ -9,5 +9,8 @@ Key Results:
 * comfortable with a trivial assembly language so that you can map the programming constructs up and down the stack.
 * It's not about the syntax, almost nobody writes assembly, and if they do, it's a LOT more complex than what we will do
 
+
+References:
 - https://schweigi.github.io/assembler-simulator/
+- https://github.com/Schweigi/assembler-simulator
 
